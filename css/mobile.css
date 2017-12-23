@@ -6,31 +6,38 @@
 
 .main {
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
-.article-list {
-  margin: 0;
+.ach_mov .col-2 {
+  width: 50%;
 }
 
-.side-bar .nav,
-.side-bar .tag-list {
-  text-align: center;
-  display: none;
+.perio_paper .col-2 {
+  position: relative;
+  width: 100%;
+  float: none;
 }
 
-#menu-checkbox:checked ~ .nav,
-#menu-checkbox:checked ~ .tag-list {
-  display: block;
+.perio_paper .col-8 {
+  width: 100%;
 }
 
-#menu-toggle {
-  display: block;
-  position: absolute;
-  top: 10px;
-  right: 0px;
-  font-size: 20px;
-  font-weight: 300;
-  color: rgba(255, 155, 155, 0.7);
+.grad_thesis .col-2 {
+  position: relative;
+  width: 100%;
+  float: none;
+}
+
+.grad_thesis .col-8 {
+  width: 100%;
+}
+
+.acad_back .col-2 {
+  position: relative;
+  width: 100%;
+  float: none;
+}
+
+.acad_back .col-8 {
+  width: 100%;
 }
