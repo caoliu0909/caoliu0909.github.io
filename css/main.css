@@ -225,3 +225,9 @@ li {
 .top_inf .main {
   padding-left: 8px;
 }
+
+.footer {
+  text-align: center;
+  color: #999;
+  padding-top: 10px;
+}
