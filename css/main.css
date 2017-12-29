@@ -231,3 +231,8 @@ li {
   color: #999;
   padding-top: 10px;
 }
+
+.acad_back .col-8,
+.acad_back .col-2 {
+  padding-bottom: 15px;
+}
